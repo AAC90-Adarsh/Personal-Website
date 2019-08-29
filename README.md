@@ -1,3 +1,3 @@
-# Pittch-Please-Website
+# Adarsh's Personal Website
 
-This will be a website for my a cappella group, Pittch Please.
+This will be my personal website.
